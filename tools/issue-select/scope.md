@@ -14,7 +14,7 @@ Two parts. Staff wrote the first; you write the second.
 
 Only issues in the course's Path Review repository are candidates:
 
-- Repo: `<ORG>/<PATH-REVIEW-REPO>` <!-- paste your section's repo from the Unit 1 Check-In page -->
+- Repo: codepath/pathreview-ai301-fa26-s3 <!-- paste your section's repo from the Unit 1 Check-In page -->
 
 Do not search, fetch, or grade issues from any other repository, however
 promising. The wider GitHub comes later in the course; for now the field
@@ -28,6 +28,8 @@ anyway: course credit attaches to the pull request you open, not to
 whether it merges, so a shared issue costs nobody anything. Everything
 else in the rubric applies as written.
 
+Classmate claim comments and classmate-opened PRs do not block an issue, because multiple students may work on the same issue and course credit is tied to each student’s own PR.
+
 ## Your fit profile
 
 <!-- YOU write this part: a few sentences about you. What languages and
@@ -36,4 +38,4 @@ you want to avoid. The skill uses this only to RANK the issues your
 rubric accepts, never to change a verdict: fit cannot rescue an issue
 your rubric rejects, and cannot sink one it accepts. -->
 
-(Write a few sentences here.)
+I'm a Computer Engineering graduate from CUNY City College of New York, proficient in Python and Java, with particular interest in data-related work and CLI tools. I enjoy learning new tools and codebases, which is part of why this course appealed to me. For this first issue, I'd like something beginner-friendly but real, ideally a chance to get comfortable navigating a large, unfamiliar codebase. I'd prefer to avoid frontend/CSS-heavy work.
